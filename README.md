@@ -78,7 +78,7 @@ Mapeamento conforme a função:
 
 **User-2 (somente leitura EC2):**  
 ![User-2 visualizando instâncias](images/user2-instances.jpeg)  
-![User-2 tentando parar instância](himages/user2-erro-parar.jpeg)  
+![User-2 tentando parar instância](images/user2-erro-parar.jpeg)  
 ![User-2 acesso negado S3](images/user2-acesso-negado-s3.jpeg)  
 
 **User-3 (administrador EC2):**  
